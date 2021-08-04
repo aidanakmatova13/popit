@@ -6,6 +6,24 @@
 .wrapper div{
     border: 1px solid black;
 }
-.black{
+.dark{
     background-color: black;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: lawngreen;
+}
+.blue{
+    background-color: midnightblue;
+}
+.orange{
+    background-color: orangered;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: rebeccapurple;
 }
